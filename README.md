@@ -1,42 +1,33 @@
-# Gaming-Arena
 # 🎮 Gaming Arena  
 
-Welcome to **Gaming Arena**, a React-based web platform featuring fun and interactive games like:  
-- 🪨✂️📄 Rock Paper Scissors  
-- ❌⭕ Tic Tac Toe  
-- 🧠 Memory Game  
+A collection of fun, interactive games built using **React + Vite**! 🚀  
 
-## 🚀 Live Demo  
-🔗 **[Play Now](https://curious-sopapillas-5a1a2b.netlify.app/)**  
+## 🕹️ Games Included  
+- ✊✋✌️ **Rock Paper Scissors**  
+- ❌⭕ **Tic Tac Toe**  
+- 🃏 **Memory Cards**  
 
----
+## 📸 Screenshots  
 
-## 🖼️ Screenshots  
+### 🏠 Home Page  
+![Game Arena](screenshots/game%20arena.png)  
 
-### 🏠 Homepage  
-![Homepage](./screenshots/homepage.png)  
-
-### 🪨✂️📄 Rock Paper Scissors  
-![Rock Paper Scissors](./screenshots/rock-paper-scissors.png)  
+### ✊✋✌️ Rock Paper Scissors  
+![Rock Paper Scissors](screenshots/rps.png)  
 
 ### ❌⭕ Tic Tac Toe  
-![Tic Tac Toe](./screenshots/tic-tac-toe.png)  
+![Tic Tac Toe](screenshots/icgssg.png)  
 
-### 🧠 Memory Game  
-![Memory Game](./screenshots/memory-game.png)  
-
----
+### 🃏 Memory Cards  
+![Memory Cards](screenshots/emmory%20cards.png)  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React, TypeScript, Vite  
-- **Styling**: CSS, Tailwind CSS  
-- **Deployment**: GitHub Pages / Netlify  
+- ⚡ **Vite** – Fast build tool  
+- ⚛ **React** – UI Library  
+- 🎨 **CSS** – Styling  
 
----
-
-## 📦 Installation & Setup  
-
-1️⃣ Clone the repository  
-```bash
-git clone https://github.com/amukta14/Gaming-Arena.git
-cd Gaming-Arena
+## 🚀 How to Run Locally  
+1️⃣ Clone the repo:  
+   ```bash
+   git clone https://github.com/amukta14/Gaming-Arena.git
+   cd Gaming-Arena
